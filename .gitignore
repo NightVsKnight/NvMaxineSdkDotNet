@@ -1,0 +1,17 @@
+
+##
+## Other Reference: https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
+##
+
+*.user
+
+NvAfxDotNet/.vs/
+NvAfxDotNet/packages/
+NvAfxDotNet/x64/
+NvAfxDotNet/NvAfxDotNet/bin/
+NvAfxDotNet/NvAfxDotNet/obj/
+NvAfxDotNet/NvAfxDotNetUnitTest/bin/
+NvAfxDotNet/NvAfxDotNetUnitTest/obj/
+NvAfxDotNet/NvAfxDotNetTestApp/bin/
+NvAfxDotNet/NvAfxDotNetTestApp/obj/
+NvAfxDotNet/NvAfxTestConsole/x64/

@@ -1,0 +1,3 @@
+[submodule "cscore"]
+	path = cscore
+	url = https://github.com/NightVsKnight/cscore.git
